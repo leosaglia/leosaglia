@@ -2,7 +2,7 @@
 <h3 align="center">A Web Developer Instructor focused on .NET Core</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leosaglia" alt="leosaglia" /> </p>
 
-- 🔭 I’m currently working on [Itaú Unibanco](https://github.com/Itau-unibanco)
+- 🔭 I’m currently working at [Itaú Unibanco](https://github.com/Itau-unibanco)
 
 - 🌱 I’m currently learning **.NET Core, Clean Code and Tests**
 
