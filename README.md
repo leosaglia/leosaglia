@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **.NET Core, Clean Code and Tests**
 
-- 💬 Ask me about anything, if I don't know, I try to learn
+- 💬 Ask me about anything, if I don't know, I'll try to learn
 
 - 📫 How to reach me **leosaglia@hotmail.com**
 
