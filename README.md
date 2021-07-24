@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Itaú Unibanco](https://github.com/Itau-unibanco)
 
-- 🌱 I’m currently learning **.NET Core, Clean Code e Tests**
+- 🌱 I’m currently learning **.NET Core, Clean Code and Tests**
 
 - 💬 Ask me about anything, if I don't know, I try to learn
 
